@@ -7,9 +7,6 @@ class FinancialWallet:
         """
         Конструктор класса FinancialWallet.
 
-        Parameters:
-        - data_file (str): Путь к файлу данных кошелька.
-
         Attributes:
         - data_file (str): Путь к файлу данных кошелька.
         - data (list): Список словарей, содержащих записи о доходах и расходах.
